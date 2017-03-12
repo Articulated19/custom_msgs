@@ -1,0 +1,6 @@
+Path new_path
+---
+std_msgs/Bool has_passed_last_point
+Position startposition
+float32 startangle
+
