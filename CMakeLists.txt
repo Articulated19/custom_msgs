@@ -47,6 +47,7 @@ find_package(catkin REQUIRED COMPONENTS
    GulliViewPositions.msg
    Path.msg
    Position.msg
+   PositionAndDirection.msg
  )
 
 ## Generate services in the 'srv' folder
