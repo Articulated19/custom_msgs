@@ -1,4 +1,0 @@
-Position startposition
-float32 startangle
----
-std_msgs/Bool accepted
