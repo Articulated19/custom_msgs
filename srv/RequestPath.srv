@@ -1,0 +1,5 @@
+TruckState state
+Position goal
+---
+bool success
+string message
