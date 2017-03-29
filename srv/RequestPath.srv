@@ -1,5 +1,5 @@
 TruckState state
-Position goal
+Path goals
 ---
 bool success
 string message
