@@ -50,11 +50,10 @@ find_package(catkin REQUIRED COMPONENTS
    TruckState.msg
  )
 
-## Generate services in the 'srv' folder
+# Generate services in the 'srv' folder
  add_service_files(
    FILES
-   PathRequest.srv
-   ReworkPath.srv
+   RequestPath.srv
  )
 
 ## Generate actions in the 'action' folder
