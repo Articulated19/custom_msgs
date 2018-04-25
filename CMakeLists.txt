@@ -48,6 +48,8 @@ find_package(catkin REQUIRED COMPONENTS
    Path.msg
    Position.msg
    TruckState.msg
+   Intersection_Action.msg
+   V2I.msg
  )
 
 # Generate services in the 'srv' folder
